@@ -33,3 +33,5 @@ optional arguments:
 ```
 python3 smtp-client.py ivashkin.roma2001@yandex.ru **password** ivashkin.roma2001@gmail.com -t Hello
 ```
+
+![изображение](https://user-images.githubusercontent.com/24986160/120069781-1e90b600-c0a1-11eb-9c2a-6d970b66b302.png)
